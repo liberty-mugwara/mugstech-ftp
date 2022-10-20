@@ -1,5 +1,5 @@
 {
-  "name": "mugstech-s3",
+  "name": "mugstech-ftp",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "version": "1.0.0",
