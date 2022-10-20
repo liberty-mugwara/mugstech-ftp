@@ -2,8 +2,8 @@
   "name": "mugstech-ftp",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "version": "1.0.0",
-  "description": "Uploads and Retrieves files to/from S3 in an AWS lambda",
+  "version": "1.0.1",
+  "description": "Library for sending teccom orders to an FTP client",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p tsconfig.build.json --declaration",
