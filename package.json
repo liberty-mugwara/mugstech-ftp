@@ -15,7 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsftp": "^2.1.3"
+    "jsftp": "^2.1.3",
+    "mugstech-ftp": "^1.0.1"
   },
   "devDependencies": {
     "@types/jsftp": "^2.1.2",

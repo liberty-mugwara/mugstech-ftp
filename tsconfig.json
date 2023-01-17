@@ -6,6 +6,7 @@
     "target": "ES2021",
     "types": ["node"],
     "allowJs": true,
+    "importHelpers": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
